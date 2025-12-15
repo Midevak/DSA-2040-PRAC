@@ -115,10 +115,9 @@ faker==20.1.0
 ### Installation Steps
 ```bash
 # Clone the repository
-git clone https://github.com/LEVIN0/DSA2040_Practical_Exam_Levin913.git
-
+git clone[ https://github.com/Midevak/DSA-2040-PRAC.git]
 # Navigate to project directory
-cd DSA2040_Practical_Exam_Levin913
+cd DSA2040_Practical_Exam_Keyshia952
 
 # Install dependencies
 pip install -r requirements.txt
